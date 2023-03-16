@@ -1,0 +1,6 @@
+{
+  "name": "HostApp",
+  "displayName": "HostApp",
+  "localChunks": ["login"]
+}
+
